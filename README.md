@@ -1,6 +1,6 @@
 # git_github_workshop
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -30,6 +30,7 @@ Rémi Gau
   <tr>
     <td align="center"><a href="https://remi-gau.github.io/"><img src="https://avatars3.githubusercontent.com/u/6961185?v=4" width="100px;" alt=""/><br /><sub><b>Remi Gau</b></sub></a><br /><a href="#content-Remi-Gau" title="Content">🖋</a> <a href="#ideas-Remi-Gau" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/Remi-Gau/git_github_workshop/commits?author=Remi-Gau" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/sofievdbos"><img src="https://avatars0.githubusercontent.com/u/23309041?v=4" width="100px;" alt=""/><br /><sub><b>Sofie Van Den Bossche</b></sub></a><br /><a href="#content-sofievdbos" title="Content">🖋</a> <a href="#ideas-sofievdbos" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/Remi-Gau/git_github_workshop/commits?author=sofievdbos" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.medizin.uni-muenster.de/epi/institut/mitarbeiter/niklas-wulms-msc-biologie/"><img src="https://avatars3.githubusercontent.com/u/46813125?v=4" width="100px;" alt=""/><br /><sub><b>wulms</b></sub></a><br /><a href="#content-wulms" title="Content">🖋</a> <a href="https://github.com/Remi-Gau/git_github_workshop/commits?author=wulms" title="Code">💻</a></td>
   </tr>
 </table>
 
