@@ -26,6 +26,16 @@
         "ideas",
         "code"
       ]
+    },
+    {
+      "login": "wulms",
+      "name": "wulms",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/46813125?v=4",
+      "profile": "https://www.medizin.uni-muenster.de/epi/institut/mitarbeiter/niklas-wulms-msc-biologie/",
+      "contributions": [
+        "content",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
