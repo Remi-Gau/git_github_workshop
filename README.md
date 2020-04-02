@@ -5,7 +5,7 @@
 
 
 
-
+See [here for the google doc](https://docs.google.com/document/d/1FZUNvDnc4Kl1IizuASLMNocahSvwZQ14Tlu3rlMaRb4/edit?usp=sharing)
 
 
 # Yet another version control tutorial
